@@ -1,0 +1,10 @@
+asgiref
+backports.zoneinfo
+Django
+joblib
+numpy
+scikit-learn
+scipy
+sqlparse
+threadpoolctl
+tzdata
